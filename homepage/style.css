@@ -1,0 +1,63 @@
+
+  h1 {
+    font-family: ;
+    color: Black;
+    text-align: center;
+  }
+  body {
+    background-color: #FEFAE0;
+    font-family:"papyrus";
+    text-align: center;
+    font-size: 100;
+
+  }
+  p {
+    font-family: ;
+    color: mocha;
+    text-align: center;
+    margin: 10px 50px 10px;
+
+  }
+  a {
+    font-family: "papyrus";
+    color: #BC6C25;
+    text-align: center;
+
+  }
+  img {
+    border-style: solid;
+    border-color: #283618;
+    border-width: 2px;
+  }
+li {
+    display: inline;
+    text-align: right;
+  }
+.header {
+  color: black;
+  font-weight: bold;
+}
+
+.bg {
+background-image: url("awkwardraccoon.jpeg");
+height: 100vh;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.meimg {
+  width: 300px;
+  height: auto;
+}
+.header1 {
+  padding: 25px 50px 10px;
+}
+.racc {
+  margin: 10px 50px 10px;
+}
+.container-fluid {
+  color: ;
+}
+nav {
+background-color: blue;
+}
